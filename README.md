@@ -14,11 +14,6 @@
 - **Datos:** Simulados/anonimizados.  
 - **Herramientas:** Power BI Desktop, DAX, Power Query.
 
-## Cómo abrir el .pbix
-
-1. Descarga `MarketingPBI.pbix` desde la sección *Releases* o haciendo clic aquí.  
-2. Abre con Power BI Desktop (versión 2.130 o posterior).
-
 ## Licencia
 
 MIT — libre para uso educativo y portafolios.
